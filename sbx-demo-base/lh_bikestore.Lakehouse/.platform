@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "lh_bikestore"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "6065357d-0a71-b8ac-430c-66221292dafb"
+  }
+}
